@@ -28,7 +28,7 @@ I’m moving into AI. APIs are the doors my models walk through. This repo is my
 
 ## 🧭 Trailhead API Trailmix Progress
 
-I'm working through my custom [Trailhead API Foundational Trailmix](https://trailhead.salesforce.com/users/llqpabxwz9wkchwmke/trail skills in APIs, Postman, and Salesforce integration.
+I'm working through my custom [Trailhead API Foundational Trailmix](https://trailhead.salesforce.com/users/llqpabxwz9wkchwmke/trail) skills in APIs, Postman, and Salesforce integration.
 
 ### ✅ Completed Modules
 - [x] API Basics
