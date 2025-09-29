@@ -28,17 +28,13 @@ I’m moving into AI. APIs are the doors my models walk through. This repo is my
 
 ## 🧭 Trailhead API Trailmix Progress
 
-I'm working through my custom [Trailhead API Foundational Trailmix](https://trailhead.salesforce.com- [ ] Integrate with External Services
-- [ ] Apex Integration Services
-
-### 🧠 Notes & Reflections
-I'll use this space to jot down key learnings, questions, and “aha!” moments from each module. I’ll also link any Postman collections or mini projects I build along the way.
-
-> “APIs are the doors my models walk through.” – Danger Noodle 🐍
-I'm working through my custom [Trailhead API Foundational Trailmix](https://trailhead.salesforce.compi-foundational to build my dev skills in APIs, Postman, and Salesforce integration.
+I'm working through my custom [Trailhead API Foundational Trailmix](https://trailhead.salesforce.com/users/llqpabxwz9wkchwmke/trail skills in APIs, Postman, and Salesforce integration.
 
 ### ✅ Completed Modules
 - [x] API Basics
 - [ ] Postman API Client
 - [ ] REST API Principles
 - [ ] Authentication & Security
+- [ ] Integrate with External Services
+- [ ] Apex Integration Services
+
