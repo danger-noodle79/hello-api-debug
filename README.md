@@ -1,4 +1,4 @@
-# Hello API Debug
+# danger-noodle79
 
 A tiny lab where Danger Noodle learns to read the runes of APIs.
 
