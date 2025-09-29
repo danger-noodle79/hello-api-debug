@@ -38,3 +38,12 @@ I'm working through my custom [Trailhead API Foundational Trailmix](https://trai
 - [ ] Integrate with External Services
 - [ ] Apex Integration Services
 
+
+### 🧠 Notes & Reflections
+
+#### 🪄 AHA Moment: The Bracket of Destiny
+While updating my Trailhead progress section, I noticed the markdown link was breaking the checklist formatting. After a moment of confusion, I realised... *I forgot the closing bracket!* 😱
+
+Fixing it instantly made everything display correctly. Lesson learned: **Markdown is picky about syntax, and even one missing character can break the whole vibe.**
+
+> Debugging isn't just about code—it's about noticing patterns, trusting your instincts, and celebrating every tiny win. 💗
