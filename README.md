@@ -46,4 +46,4 @@ While updating my Trailhead progress section, I noticed the markdown link was br
 
 Fixing it instantly made everything display correctly. Lesson learned: **Markdown is picky about syntax, and even one missing character can break the whole vibe.**
 
-> Debugging isn't just about code—it's about noticing patterns, trusting your instincts, and celebrating every tiny win. 💗
+> Debugging isn't just about code! it's about noticing patterns, trusting your instincts, improving your music theory skills, and celebrating every tiny win. 💗
